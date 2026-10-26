@@ -18,4 +18,4 @@ Chinese writeup: coming soon.
 
 Tested on 5.13, 5.4, 4.18.
 
-![](assets/success.png)
+<img width="1138" height="1068" alt="success" src="https://github.com/user-attachments/assets/b7d153cf-dc0e-4bd5-aa8e-6c5ee5e65ecb" />
